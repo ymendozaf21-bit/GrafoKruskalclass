@@ -1,0 +1,4 @@
+GrafoKruskalclass$Grafo
+GrafoKruskalclass$Kruskal
+GrafoKruskalclass
+GrafoKruskalclass$Arista
